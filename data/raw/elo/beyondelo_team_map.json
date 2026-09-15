@@ -1,0 +1,630 @@
+{
+  "Ajaccio": {
+    "id": "324a2726-6b80-4a9e-82fc-d94cf86e87ec",
+    "name": "AC Ajaccio"
+  },
+  "Alaves": {
+    "id": "bf4033f8-253c-4ac7-bd1b-df741a80fad3",
+    "name": "Alav\u00e9s"
+  },
+  "Almeria": {
+    "id": "f3e3887e-15a2-4f59-9b52-df3727b347c1",
+    "name": "UD Almer\u00eda"
+  },
+  "Amiens": {
+    "id": "3498e99c-52ea-438b-9703-6451a4d51413",
+    "name": "Amiens SC"
+  },
+  "Angers": {
+    "id": "ce15bba9-9389-4834-8777-3f77b5cdca64",
+    "name": "Angers"
+  },
+  "Arsenal": {
+    "id": "ae6681ad-1734-4694-893b-23ad24155f35",
+    "name": "Arsenal"
+  },
+  "Aston Villa": {
+    "id": "f6db9444-2407-4352-8ae6-2437621b8eeb",
+    "name": "Aston Villa"
+  },
+  "Atalanta": {
+    "id": "25a3d6fe-ed78-4e71-9e4f-6283ba865bc0",
+    "name": "Atalanta"
+  },
+  "Ath Bilbao": {
+    "id": "799bbf28-1f64-48ca-9e53-320104792e42",
+    "name": "Athletic Club"
+  },
+  "Ath Madrid": {
+    "id": "91873b3e-707b-4cca-8ffc-6e93636ed393",
+    "name": "Atletico Madrid"
+  },
+  "Augsburg": {
+    "id": "1330708c-72a3-4783-89fc-a7c8a72c96ba",
+    "name": "Augsburg"
+  },
+  "Auxerre": {
+    "id": "ec40ec67-8571-4211-8d07-13bcd914d9e6",
+    "name": "Auxerre"
+  },
+  "Barcelona": {
+    "id": "27713207-a7c0-4470-985b-d9becb5ede13",
+    "name": "Barcelona"
+  },
+  "Bastia": {
+    "id": "7485e37b-0b63-40a7-af6a-8ceaeaec2667",
+    "name": "Bastia"
+  },
+  "Bayern Munich": {
+    "id": "c4cff959-55d2-4ffa-946a-c87717ab9736",
+    "name": "Bayern Munich"
+  },
+  "Benevento": {
+    "id": "06d5626e-0728-4654-bc9b-1e388ccc803c",
+    "name": "Benevento Calcio"
+  },
+  "Betis": {
+    "id": "7910d966-0ee5-46a1-b0fd-d877bf906dd9",
+    "name": "Real Betis"
+  },
+  "Bielefeld": {
+    "id": "2fc95370-4f3e-4ee8-b5a4-126e28b08987",
+    "name": "Arminia Bielefeld"
+  },
+  "Bochum": {
+    "id": "008c922f-d244-4e4f-8e74-5b3d6b21ca1f",
+    "name": "Bochum"
+  },
+  "Bologna": {
+    "id": "d292cfb0-1ba3-46ae-b227-915d2740d441",
+    "name": "Bologna"
+  },
+  "Bordeaux": {
+    "id": "90042317-75d0-4092-8c13-1bae8cc4899f",
+    "name": "Bordeaux"
+  },
+  "Bournemouth": {
+    "id": "770db6bb-483c-4ba3-95e1-11bbda3da68f",
+    "name": "AFC Bournemouth"
+  },
+  "Brentford": {
+    "id": "3add8e59-c9ca-4d97-91d5-f237146936fb",
+    "name": "Brentford FC"
+  },
+  "Brescia": {
+    "id": "24256ae2-3ecd-4e69-8b25-b15d53460100",
+    "name": "Brescia"
+  },
+  "Brest": {
+    "id": "520182ab-ac57-45e0-a388-f7ad6834e9be",
+    "name": "Brest"
+  },
+  "Brighton": {
+    "id": "17d17d54-005d-4832-bbb4-ff157a8e5cf8",
+    "name": "Brighton"
+  },
+  "Burnley": {
+    "id": "926f82cb-fe2c-4167-91eb-a5a2ed9a0772",
+    "name": "Burnley"
+  },
+  "Cadiz": {
+    "id": "68466dda-9f26-4b07-b0f3-017475b6309c",
+    "name": "C\u00e1diz CF"
+  },
+  "Caen": {
+    "id": "8e066b9b-eb2b-42bb-9f11-9bde1ab67ef3",
+    "name": "Caen"
+  },
+  "Cagliari": {
+    "id": "65570480-d2ac-4962-b1b8-4c80f6484d46",
+    "name": "Cagliari"
+  },
+  "Cardiff": {
+    "id": "dbf45013-1383-47be-b3b8-a1e8989afccd",
+    "name": "Cardiff City"
+  },
+  "Celta": {
+    "id": "8564e412-bb40-488b-8c81-7239ef613ed2",
+    "name": "Celta Vigo"
+  },
+  "Chelsea": {
+    "id": "b54f21aa-c745-48ca-94bd-d098875a9900",
+    "name": "Chelsea"
+  },
+  "Chievo": {
+    "id": "d26650a1-047a-4f2f-9cac-fc5cc33f7417",
+    "name": "Chievo"
+  },
+  "Clermont": {
+    "id": "78901157-69b9-4926-ac13-59428001de64",
+    "name": "Clermont Foot 63"
+  },
+  "Cremonese": {
+    "id": "6c92ac43-a5a6-4316-b9dc-b6cad0214208",
+    "name": "US Cremonese"
+  },
+  "Crotone": {
+    "id": "057e85ee-bf5e-4e54-a91c-9a250c92fbd0",
+    "name": "FC Crotone"
+  },
+  "Crystal Palace": {
+    "id": "6fbb3a09-1ce8-4876-84d4-cd0e312e0ca3",
+    "name": "Crystal Palace"
+  },
+  "Darmstadt": {
+    "id": "ede0fc4a-2792-4e41-8686-e90bc3478db9",
+    "name": "SV Darmstadt 98"
+  },
+  "Dijon": {
+    "id": "b8307fb4-114a-4f88-8d72-7dcad787c2a7",
+    "name": "Dijon FCO"
+  },
+  "Dortmund": {
+    "id": "8dff5473-eaa4-4e91-bf13-fe6e2e1f68f5",
+    "name": "Borussia Dortmund"
+  },
+  "Eibar": {
+    "id": "fd0311d3-cf81-4fd9-9ece-d6e5cb3a2fb0",
+    "name": "SD Eibar"
+  },
+  "Ein Frankfurt": {
+    "id": "facb999b-36d6-4002-aca5-9fcd7b3991ac",
+    "name": "Frankfurt"
+  },
+  "Elche": {
+    "id": "cff486d7-e905-455a-96dc-e054fa2263bd",
+    "name": "Elche CF"
+  },
+  "Empoli": {
+    "id": "4e7cc3fe-8148-4f9d-9f4f-a661fd94129b",
+    "name": "Empoli"
+  },
+  "Espanol": {
+    "id": "2c16cb11-b705-4ce2-b3e0-9d0af1d3e1eb",
+    "name": "Espanyol"
+  },
+  "Everton": {
+    "id": "39efb282-99b7-498a-92de-2fba2143541d",
+    "name": "Everton"
+  },
+  "FC Koln": {
+    "id": "f8df6c0d-8279-4f93-8c3b-97547a737dfb",
+    "name": "K\u00f6ln"
+  },
+  "Fiorentina": {
+    "id": "8c3fd247-3a36-40b1-881f-c997ecadcbc9",
+    "name": "Fiorentina"
+  },
+  "Freiburg": {
+    "id": "ee5efe3a-028f-42d2-a523-e35365058f5f",
+    "name": "Freiburg"
+  },
+  "Frosinone": {
+    "id": "4cb8b24f-0ebc-4510-9b19-af1e16a867e6",
+    "name": "Frosinone Calcio"
+  },
+  "Fulham": {
+    "id": "3adb7c76-9913-4d2f-bba4-e15b8e7f8b01",
+    "name": "Fulham"
+  },
+  "Genoa": {
+    "id": "21a0059a-14f8-48f8-88a5-b18ee7d10073",
+    "name": "Genoa"
+  },
+  "Getafe": {
+    "id": "7bef04d8-6563-4f45-884b-540eed631987",
+    "name": "Getafe"
+  },
+  "Girona": {
+    "id": "c12e49de-e0bf-4474-b4a4-963491cbfd03",
+    "name": "Girona"
+  },
+  "Granada": {
+    "id": "9ac07362-1c6e-499c-9cab-9bc35d353383",
+    "name": "Granada"
+  },
+  "Greuther Furth": {
+    "id": "14c56826-64cf-4f0b-8534-f3ca10afcda8",
+    "name": "SpVgg Greuther F\u00fcrth"
+  },
+  "Guingamp": {
+    "id": "ce057093-e979-49e2-82a3-8c0c8350402e",
+    "name": "Guingamp"
+  },
+  "Hamburg": {
+    "id": "4b5b883c-b9ff-4ec8-8829-aac9fb14964a",
+    "name": "Hamburg"
+  },
+  "Hannover": {
+    "id": "06f5759d-b35b-4b1a-8f5d-ec36db41ebfa",
+    "name": "Hannover 96"
+  },
+  "Heidenheim": {
+    "id": "c97bf4b8-31fa-4fee-aa43-0d59b4cec62f",
+    "name": "Heidenheim"
+  },
+  "Hertha": {
+    "id": "a94ff709-c06a-4767-85f5-667edad8ea83",
+    "name": "Hertha Berlin"
+  },
+  "Hoffenheim": {
+    "id": "2163db92-3e44-4a36-aa9d-8b50e1c79aed",
+    "name": "Hoffenheim"
+  },
+  "Huddersfield": {
+    "id": "81cdac11-3322-42d7-bf3c-54a57d5dd71a",
+    "name": "Huddersfield Town"
+  },
+  "Huesca": {
+    "id": "5ce6670d-7a66-4ce2-b565-d1f29d69f557",
+    "name": "SD Huesca"
+  },
+  "Hull": {
+    "id": "3f0e3f57-ab6d-45f4-b498-6e0deb1dc420",
+    "name": "Hull City"
+  },
+  "Ingolstadt": {
+    "id": "0f4cf3c3-ff88-46ca-bf53-fc0f1ca0c2b7",
+    "name": "FC Ingolstadt 04"
+  },
+  "Inter": {
+    "id": "b78916de-ce03-4e0e-a1fa-7b3c393e610c",
+    "name": "Inter"
+  },
+  "Juventus": {
+    "id": "167d358e-d96a-4837-a630-54b5eb867686",
+    "name": "Juventus"
+  },
+  "La Coruna": {
+    "id": "bedf966c-22dc-485a-9920-717aaed41902",
+    "name": "Deportivo"
+  },
+  "Las Palmas": {
+    "id": "43631ed6-8f46-4e43-822e-63612887bb46",
+    "name": "Las Palmas"
+  },
+  "Lazio": {
+    "id": "8d9b3866-b78b-4ebd-b635-3b432cbdf358",
+    "name": "Lazio"
+  },
+  "Le Havre": {
+    "id": "c89da1ca-788b-4684-bd3f-5c38de0d6516",
+    "name": "Le Havre AC"
+  },
+  "Lecce": {
+    "id": "0e57f431-a56e-4c96-84b4-f5fd3edb447d",
+    "name": "US Lecce"
+  },
+  "Leeds": {
+    "id": "95ecdede-82ac-46c3-b092-f829d7e50b76",
+    "name": "Leeds United"
+  },
+  "Leganes": {
+    "id": "8fec95a5-7846-48cb-83cc-1e43f95374d5",
+    "name": "CD Legan\u00e9s"
+  },
+  "Leicester": {
+    "id": "dde581d2-865e-4770-8b61-fac8a8aa6301",
+    "name": "Leicester City"
+  },
+  "Lens": {
+    "id": "fd5e5769-929b-4132-bde5-636fad247bc1",
+    "name": "Lens"
+  },
+  "Levante": {
+    "id": "0ce8b511-1ef9-459f-9982-30fd6073d554",
+    "name": "Levante"
+  },
+  "Leverkusen": {
+    "id": "7db98fd6-6cf5-4289-a767-7c11bdad9eb5",
+    "name": "Leverkusen"
+  },
+  "Lille": {
+    "id": "02559e71-a61f-41d9-96fa-9fa7aa194adb",
+    "name": "Lille"
+  },
+  "Liverpool": {
+    "id": "1ba87359-57a9-436a-ae21-ac3fbe187794",
+    "name": "Liverpool"
+  },
+  "Lorient": {
+    "id": "8cf1df35-4dc5-4e63-b80d-486781828252",
+    "name": "Lorient"
+  },
+  "Luton": {
+    "id": "eb81f478-9cfa-4305-b4ea-e15d8d158c5f",
+    "name": "Luton Town"
+  },
+  "Lyon": {
+    "id": "2b338d6f-d905-4137-879e-69c07b9caa77",
+    "name": "Lyon"
+  },
+  "M'gladbach": {
+    "id": "3332d794-2add-42df-8ba4-f698eb3322be",
+    "name": "M\u00f6nchengladbach"
+  },
+  "Mainz": {
+    "id": "fe0641a3-edd6-45cf-a71d-d3868192f70d",
+    "name": "Mainz"
+  },
+  "Malaga": {
+    "id": "ffe578b3-6d4c-4966-b0ff-1c44425dddff",
+    "name": "M\u00e1laga"
+  },
+  "Mallorca": {
+    "id": "9dcb5c27-1edc-4904-9f2f-d97f59bf8e08",
+    "name": "Mallorca"
+  },
+  "Man City": {
+    "id": "2ff080b8-49f5-4254-b715-30d6adb19de4",
+    "name": "Manchester City"
+  },
+  "Man United": {
+    "id": "9ef2a866-2b8e-4a23-881c-8b1840d730ba",
+    "name": "Manchester United"
+  },
+  "Marseille": {
+    "id": "daacbdcd-5739-4a06-92f4-a4538eb4d297",
+    "name": "Marseille"
+  },
+  "Metz": {
+    "id": "29103267-bd75-49d7-afca-141cd51a4302",
+    "name": "Metz"
+  },
+  "Middlesbrough": {
+    "id": "87aa0f30-002f-49af-8194-96fc9e2745b1",
+    "name": "Middlesbrough"
+  },
+  "Milan": {
+    "id": "abd90092-fb79-444f-9516-6d8b4231d398",
+    "name": "Milan"
+  },
+  "Monaco": {
+    "id": "5a2fd96a-420a-42da-9eed-12083084ea2b",
+    "name": "Monaco"
+  },
+  "Montpellier": {
+    "id": "8ae9f1cf-42cd-4d3b-b11a-db95632209b4",
+    "name": "Montpellier"
+  },
+  "Monza": {
+    "id": "73903a95-31f0-4551-89dd-1e2a3fed6b34",
+    "name": "AC Monza"
+  },
+  "Nancy": {
+    "id": "72dec41a-04c4-4be5-b3d2-b60c1c6f1341",
+    "name": "Nancy"
+  },
+  "Nantes": {
+    "id": "d9af7ded-f514-47ca-afb9-0bb83e813dde",
+    "name": "Nantes"
+  },
+  "Napoli": {
+    "id": "5ab72dac-5695-42c2-ac7d-1f8db0eb824c",
+    "name": "Napoli"
+  },
+  "Newcastle": {
+    "id": "ed74c429-1d0c-49dc-b488-ea9960a59db9",
+    "name": "Newcastle United"
+  },
+  "Nice": {
+    "id": "29bb8314-5327-4ce6-a51f-c1e8d317e799",
+    "name": "Nice"
+  },
+  "Nimes": {
+    "id": "271845c6-e5e2-482a-8990-6f643ec8a9e2",
+    "name": "N\u00eemes"
+  },
+  "Norwich": {
+    "id": "4fea102e-89a7-4eed-8b0e-ed4aa90357ff",
+    "name": "Norwich City"
+  },
+  "Nott'm Forest": {
+    "id": "041f204f-e4aa-4db2-a2d2-72b0ce7d8a9e",
+    "name": "Nottingham Forest"
+  },
+  "Nurnberg": {
+    "id": "4a958cd7-bec0-4823-bf11-f9a9c97a92d7",
+    "name": "N\u00fcrnberg"
+  },
+  "Osasuna": {
+    "id": "9a235532-d35d-477a-9f30-355a2cc69f72",
+    "name": "Osasuna"
+  },
+  "Paderborn": {
+    "id": "6f7d1c57-2c86-4fa7-9aa3-d01d6c378981",
+    "name": "SC Paderborn 07"
+  },
+  "Palermo": {
+    "id": "7e84130a-c390-4d06-976a-2a38b7228cba",
+    "name": "Palermo"
+  },
+  "Paris SG": {
+    "id": "f73625b1-ecd8-4085-a131-d5f42cfb542b",
+    "name": "Paris Saint-Germain"
+  },
+  "Parma": {
+    "id": "84358be1-0bd3-4202-ae1e-b9e983fd32f9",
+    "name": "Parma"
+  },
+  "Pescara": {
+    "id": "6a4add3c-9b72-4b68-83c9-be6f8130d367",
+    "name": "Pescara"
+  },
+  "RB Leipzig": {
+    "id": "50cd3fb1-1622-463e-99db-80bb8d5e271a",
+    "name": "RB Leipzig"
+  },
+  "Real Madrid": {
+    "id": "1805d058-c3bd-47b9-9db2-85ce29b7506f",
+    "name": "Real Madrid"
+  },
+  "Reims": {
+    "id": "0b3b4c0c-5d2e-48f9-96b9-6a75bf2dcd10",
+    "name": "Reims"
+  },
+  "Rennes": {
+    "id": "657a95b8-c5d4-4d8c-a6e4-6486d2e1a67d",
+    "name": "Rennes"
+  },
+  "Roma": {
+    "id": "560e2d60-aa10-4ca6-a402-74eff4c3de6b",
+    "name": "Roma"
+  },
+  "Salernitana": {
+    "id": "dcfa9af2-cb5b-49e4-9051-5bf772e58478",
+    "name": "US Salernitana 1919"
+  },
+  "Sampdoria": {
+    "id": "78b4a0fa-8810-4520-b15b-6a8e58864276",
+    "name": "Sampdoria"
+  },
+  "Sassuolo": {
+    "id": "174d2525-87a6-46a4-b386-dee1ca146a5a",
+    "name": "Sassuolo"
+  },
+  "Schalke 04": {
+    "id": "45f76bce-7a22-486e-b097-553005e466fc",
+    "name": "Schalke 04"
+  },
+  "Sevilla": {
+    "id": "4e1293d0-dea9-4879-a4ef-1f891bce9e05",
+    "name": "Sevilla"
+  },
+  "Sheffield United": {
+    "id": "d526981f-7567-40bc-8a1f-e433ecf69578",
+    "name": "Sheffield United"
+  },
+  "Sociedad": {
+    "id": "c43eeed1-7096-4568-8ed1-aba1eb8ccfb3",
+    "name": "Real Sociedad"
+  },
+  "Southampton": {
+    "id": "232ac179-f0de-417c-9a90-f3f3ad8ee0c4",
+    "name": "Southampton"
+  },
+  "Sp Gijon": {
+    "id": "b63ae3f4-f615-4231-a73c-a16942967973",
+    "name": "Sporting Gij\u00f3n"
+  },
+  "Spal": {
+    "id": "507c3932-f055-4cf2-8d47-f77ed7b40887",
+    "name": "SPAL"
+  },
+  "Spezia": {
+    "id": "a0deea23-2897-4bc9-834e-1cc83b03a953",
+    "name": "Spezia Calcio"
+  },
+  "St Etienne": {
+    "id": "23795c38-d0d6-4e41-a4b5-a2c2566d2197",
+    "name": "St-\u00c9tienne"
+  },
+  "Stoke": {
+    "id": "8f21e57c-9cca-4af2-87d9-55a830ffd60c",
+    "name": "Stoke City"
+  },
+  "Strasbourg": {
+    "id": "6c3af32d-eda7-4a9d-9d81-f2f534ed1b57",
+    "name": "Strasbourg"
+  },
+  "Stuttgart": {
+    "id": "536a16cb-b111-4f30-8075-f95c15a17f0f",
+    "name": "VfB Stuttgart"
+  },
+  "Sunderland": {
+    "id": "eaaec71a-9aec-460f-aeeb-478b6dd4e11f",
+    "name": "Sunderland AFC"
+  },
+  "Swansea": {
+    "id": "e27503d7-77c9-4a9d-b541-ca62920bebc3",
+    "name": "Swansea"
+  },
+  "Torino": {
+    "id": "39870294-7677-4436-8958-f218b336435c",
+    "name": "Torino"
+  },
+  "Tottenham": {
+    "id": "e5632306-1bdd-464c-9c6d-1d2c838d98d2",
+    "name": "Tottenham Hotspurs"
+  },
+  "Toulouse": {
+    "id": "941253f2-094b-4603-86f2-aeedde3340ba",
+    "name": "Toulouse"
+  },
+  "Troyes": {
+    "id": "8bf9bf78-69d8-4c6a-abbb-089e91f08fee",
+    "name": "Troyes"
+  },
+  "Udinese": {
+    "id": "ae288fe8-d009-4bbf-b42d-a97cd8a01412",
+    "name": "Udinese"
+  },
+  "Union Berlin": {
+    "id": "50224822-ee23-4bf6-b790-fba838706e3d",
+    "name": "Union Berlin"
+  },
+  "Valencia": {
+    "id": "bab68af2-f405-4808-a086-d8c54b0dc4b2",
+    "name": "Valencia"
+  },
+  "Valladolid": {
+    "id": "765227d6-cdb3-4bf4-9b61-9617e6f40ae5",
+    "name": "Valladolid"
+  },
+  "Vallecano": {
+    "id": "747ce958-7ae8-4ddf-9af2-c495e64c5dfc",
+    "name": "Rayo Vallecano"
+  },
+  "Venezia": {
+    "id": "c2fc59c9-c9f5-4ca3-b978-083084e3197f",
+    "name": "Venezia FC"
+  },
+  "Verona": {
+    "id": "38eb2acc-7d6e-46a3-a3a8-4f870967a0ea",
+    "name": "Verona"
+  },
+  "Villarreal": {
+    "id": "e4571f0d-fe09-4010-943c-bf6cfd11cac2",
+    "name": "Villarreal"
+  },
+  "Watford": {
+    "id": "a31f94a2-5ca8-4aae-895c-c6e0c67c7c71",
+    "name": "Watford"
+  },
+  "Werder Bremen": {
+    "id": "18c14751-47d1-46df-83ba-edd553cb2487",
+    "name": "Bremen"
+  },
+  "West Brom": {
+    "id": "e0c2a75f-3077-4457-98da-ba44a5fd5a41",
+    "name": "West Bromwich Albion"
+  },
+  "West Ham": {
+    "id": "8f386c2e-59b0-41f7-9895-5556f9f6ae72",
+    "name": "West Ham"
+  },
+  "Wolfsburg": {
+    "id": "fb362f75-0b63-49f1-8181-822747716654",
+    "name": "Wolfsburg"
+  },
+  "Wolves": {
+    "id": "9f72b127-0328-4d0a-9d7d-b577e6339238",
+    "name": "Wolves"
+  },
+  "Coventry City": {
+    "id": "56b7e38d-509d-4ed5-81db-796b6f92f0d5",
+    "name": "Coventry City"
+  },
+  "Elversberg": {
+    "id": "a4e0482f-942d-41f4-aa3d-5b97af4ea5e3",
+    "name": "SV 07 Elversberg"
+  },
+  "Le Mans": {
+    "id": "e42bbd7a-2568-4ba4-83cd-e5f29afc79b8",
+    "name": "Le Mans FC"
+  },
+  "Racing Santander": {
+    "id": "03efb3e5-ea30-498b-a9f2-f651ff3f81be",
+    "name": "Racing Santander"
+  }
+}

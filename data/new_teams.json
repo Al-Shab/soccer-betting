@@ -1,0 +1,88 @@
+{
+  "Coventry City": {
+    "league": "EPL",
+    "init_method": "market_odds",
+    "attack": -0.1834662421320839,
+    "defence": 0.029213767182428768,
+    "init_info": {
+      "method": "market_odds",
+      "opponent": "Nott'm Forest",
+      "is_home": false,
+      "market_odds": {
+        "home": 1.68,
+        "draw": 4.06,
+        "away": 5.15
+      },
+      "implied_probs": {
+        "home": 0.47552233671570615,
+        "draw": 0.2770637240130798,
+        "away": 0.24741393927121402
+      },
+      "solved_lambdas": {
+        "home": 1.4569883251190188,
+        "away": 0.9787651300430296
+      },
+      "opponent_ratings": {
+        "attack": 0.1971577470397285,
+        "defence": 0.1620026688724173
+      }
+    },
+    "added_date": "2026-09-15T01:55:19.165364"
+  },
+  "Elversberg": {
+    "league": "Bundesliga",
+    "init_method": "market_odds",
+    "attack": -0.20242473637021394,
+    "defence": -0.029809226121412763,
+    "init_info": {
+      "method": "market_odds",
+      "opponent": "Schalke 04",
+      "is_home": false,
+      "market_odds": {
+        "home": 2.08,
+        "draw": 3.54,
+        "away": 3.7
+      },
+      "implied_probs": {
+        "home": 0.4112882990028363,
+        "draw": 0.2978501324163873,
+        "away": 0.29086156858077633
+      },
+      "solved_lambdas": {
+        "home": 1.245989002138375,
+        "away": 1.003609549701215
+      },
+      "opponent_ratings": {
+        "attack": 0.09973881991351066,
+        "defence": 0.2060277872806833
+      }
+    },
+    "added_date": "2026-09-15T01:55:19.836918"
+  },
+  "Le Mans": {
+    "league": "Ligue 1",
+    "init_method": "worst_team_fallback",
+    "attack": -0.22224049802720636,
+    "defence": 0.1264637148654118,
+    "init_info": {
+      "method": "worst_team_fallback",
+      "worst_team": "Metz",
+      "worst_attack": -0.24693388669689595,
+      "worst_defence": 0.11496701351401073
+    },
+    "added_date": "2026-09-15T01:55:21.180926"
+  },
+  "Racing Santander": {
+    "league": "La Liga",
+    "init_method": "worst_team_fallback",
+    "attack": -0.21880585194076987,
+    "defence": -0.0361395659863571,
+    "init_info": {
+      "method": "worst_team_fallback",
+      "worst_team": "Sevilla",
+      "worst_attack": -0.24311761326752207,
+      "worst_defence": -0.03285415089668827
+    },
+    "added_date": "2026-09-15T01:55:22.542964"
+  }
+}
